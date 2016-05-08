@@ -1,2 +1,7 @@
 # hello-world
-Get started
+
+Hi Suckers!
+
+TheKnightWithNikes here,straight outta the deep webb!
+
+
